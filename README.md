@@ -1,2 +1,2 @@
-# Evil_Geniuses_Assessment
-Evil Geniuses Data Science Assessment
+# Evil_Geniuses_ML_Assessment
+Evil Geniuses Data Science and Machine Learning Assessment
